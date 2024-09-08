@@ -1,4 +1,4 @@
-MONGODB_HOST: mongodb.daws76s.online # submit your host
+MONGODB_HOST: mongodb.getmydomain.xyz # submit your host
 REDIS_HOST: redis.daws76s.online
 MYSQL_HOST: mysql.daws76s.online
 RABBITMQ_HOST: rabbitmq.daws76s.online
